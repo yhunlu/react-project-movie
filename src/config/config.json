@@ -1,0 +1,11 @@
+{
+  "apiEndpoint": {
+    "movies": "http://localhost:5000/api/movies",
+    "genres": "http://localhost:5000/api/genres",
+    "users": "http://localhost:5000/api/users",
+    "auth": "http://localhost:5000/api/auth",
+    "customers": "http://localhost:5000/api/customers",
+    "rentals": "http://localhost:5000/api/rentals",
+    "returns": "http://localhost:5000/api/returns"
+  }
+}

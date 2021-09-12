@@ -1,0 +1,8 @@
+{
+  "apiEndpoint": {
+    "movies": "https://powerful-fjord-12069.herokuapp.com/api/movies",
+    "genres": "https://powerful-fjord-12069.herokuapp.com/api/genres",
+    "users": "https://powerful-fjord-12069.herokuapp.com/api/users",
+    "auth": "https://powerful-fjord-12069.herokuapp.com/api/auth"
+  }
+}
